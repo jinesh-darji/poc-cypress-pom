@@ -6,8 +6,4 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
   },
-
-  evn: {
-    application_url: "https://develop.buidler.etherspot.io/",
-  },
 });
